@@ -4,7 +4,7 @@ Recommendation System Using Spark and System G
 
 There are three parts of code: 
 
-1. DataRetrieve.ipynb
+(1). DataRetrieve.ipynb
 
 It serves to preprocess the dataset. 
 
@@ -15,7 +15,7 @@ The output will appear in the same directory with the name rater.txt
 
 
 
-2. spark_recommendation.py
+(2). spark_recommendation.py
 
 It serves to do recommendation on spark. 
 
@@ -25,7 +25,7 @@ Replace filename with the path copied and save
 Run this python script with the command ./pyspark spark_recommendation.py
 It will output MSE, as well as the ten top recommendation results. 
 
-3. system g part code(code is put in file 'step 3 systemg part code.pdf')
+(3). system g part code(code is put in file 'step 3 systemg part code.pdf')
 
 System G is used for item to item recommendation part by Colfilter function.
 
