@@ -1,0 +1,4 @@
+There are three steps:
+1.DataRetrieve.ipynb : It serves to preprocess the dataset.
+2.spark_recommendation.py : It serves to do recommendation based on customer to item on spark.
+3.step 3 systemg part code.pdf : It serves to do recommendation based on item to item on system G.
